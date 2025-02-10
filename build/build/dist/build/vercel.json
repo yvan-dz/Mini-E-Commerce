@@ -1,0 +1,10 @@
+{
+    "routes": [{ "src": "/(.*)", "dest": "/index.html" }],
+    "headers": [
+      {
+        "source": "/_framework/*",
+        "headers": [{ "key": "Content-Type", "value": "application/wasm" }]
+      }
+    ]
+  }
+  

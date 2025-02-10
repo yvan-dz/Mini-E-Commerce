@@ -13,6 +13,58 @@
       "PackagePath": "staticwebassets\\MiniECommerce.staticwebassets.endpoints.json"
     },
     {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\build\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\publish\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\build\\publish\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\build\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\publish\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\build\\publish\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\publish\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\build\\publish\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\build\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\build\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\vercel.json",
+      "PackagePath": "staticwebassets\\build\\vercel.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\build\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\build\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\build\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\build\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\build\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\build\\wwwroot\\wwwroot\\sample-data\\weather.json"
+    },
+    {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\css\\Footer.css",
       "PackagePath": "staticwebassets\\css\\Footer.css"
     },
@@ -47,6 +99,110 @@
     {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\css\\wishlist.css",
       "PackagePath": "staticwebassets\\css\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\build\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\publish\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\build\\publish\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\build\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\publish\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\build\\publish\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\publish\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\build\\publish\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\build\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\build\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\vercel.json",
+      "PackagePath": "staticwebassets\\dist\\build\\vercel.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\build\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\build\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\build\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\build\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\build\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\build\\wwwroot\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\publish\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\publish\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\publish\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\publish\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\publish\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\publish\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\vercel.json",
+      "PackagePath": "staticwebassets\\dist\\vercel.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\dist\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\dist\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\dist\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\dist\\wwwroot\\wwwroot\\sample-data\\weather.json"
     },
     {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\favicon.png",
@@ -237,12 +393,52 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\publish\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\publish\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\publish\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\publish\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\publish\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\publish\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\publish\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\publish\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\publish\\wwwroot\\wwwroot\\sample-data\\weather.json"
+    },
+    {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\vercel.json",
+      "PackagePath": "staticwebassets\\vercel.json"
+    },
+    {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\web.config",
       "PackagePath": "staticwebassets\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
+      "PackagePath": "staticwebassets\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json.br",
+      "PackagePath": "staticwebassets\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json.gz"
     },
     {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\MiniECommerce.styles.css",
@@ -471,6 +667,18 @@
     {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm.gz",
       "PackagePath": "staticwebassets\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\_framework\\MiniECommerce.zqujinibhe.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\_framework\\MiniECommerce.zqujinibhe.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\_framework\\MiniECommerce.zqujinibhe.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\_framework\\MiniECommerce.zqujinibhe.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\_framework\\MiniECommerce.zqujinibhe.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\_framework\\MiniECommerce.zqujinibhe.wasm.gz"
     },
     {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\_framework\\System.Collections.5cogx3qjya.wasm",
@@ -1575,6 +1783,1350 @@
     {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\staticwebapp.config.json",
       "PackagePath": "staticwebassets\\wwwroot\\staticwebapp.config.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\web.config",
+      "PackagePath": "staticwebassets\\wwwroot\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\MiniECommerce.styles.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\MiniECommerce.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\MiniECommerce.styles.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\MiniECommerce.styles.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\MiniECommerce.styles.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\MiniECommerce.styles.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.jnu2zj29eo.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.jnu2zj29eo.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.jnu2zj29eo.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.jnu2zj29eo.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.jnu2zj29eo.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.jnu2zj29eo.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.018mm0xlmd.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.018mm0xlmd.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.018mm0xlmd.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.018mm0xlmd.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.018mm0xlmd.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.018mm0xlmd.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.f9yu0ss632.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.f9yu0ss632.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.f9yu0ss632.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.f9yu0ss632.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.f9yu0ss632.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.f9yu0ss632.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.7p4o2tpul4.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.7p4o2tpul4.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.7p4o2tpul4.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.7p4o2tpul4.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.7p4o2tpul4.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.7p4o2tpul4.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.79qfazjlcu.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.79qfazjlcu.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.79qfazjlcu.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.79qfazjlcu.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.79qfazjlcu.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.79qfazjlcu.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.lo1485j0el.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.lo1485j0el.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.lo1485j0el.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.lo1485j0el.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.lo1485j0el.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.lo1485j0el.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.3ynt3oix6u.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.3ynt3oix6u.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.3ynt3oix6u.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.3ynt3oix6u.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.3ynt3oix6u.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.3ynt3oix6u.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.q876nvot0t.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.q876nvot0t.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.q876nvot0t.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.q876nvot0t.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.q876nvot0t.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.q876nvot0t.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.y2muxrj4qv.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.y2muxrj4qv.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.y2muxrj4qv.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.y2muxrj4qv.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.y2muxrj4qv.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.y2muxrj4qv.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.bvn14pws96.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.bvn14pws96.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.bvn14pws96.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.bvn14pws96.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.bvn14pws96.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Localization.bvn14pws96.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.sxddgq7smo.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.sxddgq7smo.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.sxddgq7smo.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.sxddgq7smo.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.sxddgq7smo.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.sxddgq7smo.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.fugc9tzrx1.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.fugc9tzrx1.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.fugc9tzrx1.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.fugc9tzrx1.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.fugc9tzrx1.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Logging.fugc9tzrx1.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Options.1cu2gj5cau.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Options.1cu2gj5cau.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Options.1cu2gj5cau.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Options.1cu2gj5cau.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Options.1cu2gj5cau.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Options.1cu2gj5cau.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.mytv1lpnrg.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.mytv1lpnrg.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.mytv1lpnrg.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.mytv1lpnrg.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.mytv1lpnrg.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.mytv1lpnrg.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.iknej2zdh8.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.iknej2zdh8.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.iknej2zdh8.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.iknej2zdh8.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.iknej2zdh8.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\Microsoft.JSInterop.iknej2zdh8.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\MiniECommerce.ehknwyf6ru.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.5cogx3qjya.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.5cogx3qjya.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.5cogx3qjya.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.5cogx3qjya.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.5cogx3qjya.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.5cogx3qjya.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Concurrent.ro2lqdogch.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Concurrent.ro2lqdogch.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Concurrent.ro2lqdogch.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Concurrent.ro2lqdogch.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Concurrent.ro2lqdogch.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Concurrent.ro2lqdogch.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Immutable.6pon4s1in2.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Immutable.6pon4s1in2.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Immutable.6pon4s1in2.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Immutable.6pon4s1in2.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Immutable.6pon4s1in2.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Immutable.6pon4s1in2.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.NonGeneric.6pg335faez.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.NonGeneric.6pg335faez.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.NonGeneric.6pg335faez.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.NonGeneric.6pg335faez.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.NonGeneric.6pg335faez.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.NonGeneric.6pg335faez.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Specialized.jsxyu3y1f4.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Specialized.jsxyu3y1f4.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Specialized.jsxyu3y1f4.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Specialized.jsxyu3y1f4.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Collections.Specialized.jsxyu3y1f4.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Collections.Specialized.jsxyu3y1f4.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Annotations.98sam8a6cg.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Annotations.98sam8a6cg.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Annotations.98sam8a6cg.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Annotations.98sam8a6cg.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Annotations.98sam8a6cg.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Annotations.98sam8a6cg.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Primitives.wks5r3j96d.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Primitives.wks5r3j96d.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Primitives.wks5r3j96d.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Primitives.wks5r3j96d.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Primitives.wks5r3j96d.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.Primitives.wks5r3j96d.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dp5nezu5zq.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dp5nezu5zq.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dp5nezu5zq.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dp5nezu5zq.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dp5nezu5zq.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dp5nezu5zq.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.tpqwi9wclf.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.tpqwi9wclf.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.tpqwi9wclf.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.tpqwi9wclf.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.tpqwi9wclf.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ComponentModel.tpqwi9wclf.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Console.xkdtj8hrcg.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Console.xkdtj8hrcg.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Console.xkdtj8hrcg.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Console.xkdtj8hrcg.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Console.xkdtj8hrcg.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Console.xkdtj8hrcg.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.IO.Pipelines.twix2pm6u4.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.IO.Pipelines.twix2pm6u4.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.IO.Pipelines.twix2pm6u4.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.IO.Pipelines.twix2pm6u4.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.IO.Pipelines.twix2pm6u4.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.IO.Pipelines.twix2pm6u4.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Linq.Expressions.psj3q0j5va.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Linq.Expressions.psj3q0j5va.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Linq.Expressions.psj3q0j5va.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Linq.Expressions.psj3q0j5va.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Linq.Expressions.psj3q0j5va.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Linq.Expressions.psj3q0j5va.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Linq.eteq2bbtwl.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Linq.eteq2bbtwl.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Linq.eteq2bbtwl.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Linq.eteq2bbtwl.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Linq.eteq2bbtwl.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Linq.eteq2bbtwl.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Memory.00zfd6eyoh.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Memory.00zfd6eyoh.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Memory.00zfd6eyoh.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Memory.00zfd6eyoh.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Memory.00zfd6eyoh.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Memory.00zfd6eyoh.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Net.Http.4sg4k4vifm.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Net.Http.4sg4k4vifm.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Net.Http.4sg4k4vifm.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Net.Http.4sg4k4vifm.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Net.Http.4sg4k4vifm.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Net.Http.4sg4k4vifm.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Net.Primitives.p74tuosjpr.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Net.Primitives.p74tuosjpr.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Net.Primitives.p74tuosjpr.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Net.Primitives.p74tuosjpr.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Net.Primitives.p74tuosjpr.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Net.Primitives.p74tuosjpr.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ObjectModel.f91in8emfz.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ObjectModel.f91in8emfz.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ObjectModel.f91in8emfz.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ObjectModel.f91in8emfz.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.ObjectModel.f91in8emfz.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.ObjectModel.f91in8emfz.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Private.CoreLib.51ksuqz88c.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Private.CoreLib.51ksuqz88c.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Private.CoreLib.51ksuqz88c.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Private.CoreLib.51ksuqz88c.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Private.CoreLib.51ksuqz88c.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Private.CoreLib.51ksuqz88c.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Private.Uri.j7jscl3hpd.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Private.Uri.j7jscl3hpd.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Private.Uri.j7jscl3hpd.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Private.Uri.j7jscl3hpd.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Private.Uri.j7jscl3hpd.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Private.Uri.j7jscl3hpd.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.v6n6nxwok6.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.v6n6nxwok6.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.v6n6nxwok6.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.v6n6nxwok6.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.v6n6nxwok6.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.v6n6nxwok6.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.1nx7g9wstq.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.1nx7g9wstq.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.1nx7g9wstq.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.1nx7g9wstq.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.1nx7g9wstq.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.1nx7g9wstq.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.bh8e92cr6e.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.bh8e92cr6e.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.bh8e92cr6e.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.bh8e92cr6e.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Runtime.bh8e92cr6e.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Runtime.bh8e92cr6e.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.Encodings.Web.6kgc70ln9c.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.Encodings.Web.6kgc70ln9c.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.Encodings.Web.6kgc70ln9c.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.Encodings.Web.6kgc70ln9c.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.Encodings.Web.6kgc70ln9c.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.Encodings.Web.6kgc70ln9c.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.Json.goup8qhhyh.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.Json.goup8qhhyh.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.Json.goup8qhhyh.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.Json.goup8qhhyh.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.Json.goup8qhhyh.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.Json.goup8qhhyh.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.RegularExpressions.4wce9rs2sh.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.RegularExpressions.4wce9rs2sh.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.RegularExpressions.4wce9rs2sh.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.RegularExpressions.4wce9rs2sh.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Text.RegularExpressions.4wce9rs2sh.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Text.RegularExpressions.4wce9rs2sh.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Threading.dl9ilaz6vs.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Threading.dl9ilaz6vs.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Threading.dl9ilaz6vs.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Threading.dl9ilaz6vs.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.Threading.dl9ilaz6vs.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.Threading.dl9ilaz6vs.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.pndwwxah3a.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.pndwwxah3a.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.pndwwxah3a.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.pndwwxah3a.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\System.pndwwxah3a.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\System.pndwwxah3a.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\blazor.boot.json.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\blazor.boot.json.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\blazor.boot.json.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\blazor.boot.json.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\blazor.webassembly.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\blazor.webassembly.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\blazor.webassembly.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.native.8o8n7iomrf.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.native.8o8n7iomrf.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.native.8o8n7iomrf.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.native.8o8n7iomrf.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.native.8o8n7iomrf.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.native.8o8n7iomrf.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.native.aep4lch3d1.wasm",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.native.aep4lch3d1.wasm"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.native.aep4lch3d1.wasm.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.native.aep4lch3d1.wasm.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.native.aep4lch3d1.wasm.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.native.aep4lch3d1.wasm.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.runtime.rubq0v1yiy.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.runtime.rubq0v1yiy.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.runtime.rubq0v1yiy.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.runtime.rubq0v1yiy.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\dotnet.runtime.rubq0v1yiy.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\dotnet.runtime.rubq0v1yiy.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\Footer.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\Footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\Footer.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\Footer.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\Footer.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\Footer.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\admin.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\admin.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\admin.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\admin.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\app.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\app.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\app.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\app.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\cart.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\cart.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\cart.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\cart.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\checkout.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\checkout.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\checkout.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\checkout.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\checkout.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\header.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\header.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\header.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\header.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\orders.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\orders.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\orders.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\orders.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\orders.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\orders.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\products.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\products.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\products.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\products.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\products.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\products.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\wishlist.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\wishlist.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\wishlist.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\css\\wishlist.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\css\\wishlist.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\index.html.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\index.html.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\index.html.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\index.html.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\sample-data\\weather.json.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\sample-data\\weather.json.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\sample-data\\weather.json.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\sample-data\\weather.json.gz"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\staticwebapp.config.json",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\staticwebapp.config.json"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\staticwebapp.config.json.br",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\staticwebapp.config.json.br"
+    },
+    {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\wwwroot\\staticwebapp.config.json.gz",
+      "PackagePath": "staticwebassets\\wwwroot\\wwwroot\\staticwebapp.config.json.gz"
     },
     {
       "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.MiniECommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
