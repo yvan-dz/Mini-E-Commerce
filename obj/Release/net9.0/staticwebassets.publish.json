@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3ykXxa5yW7i6DWGIdltFWk5N3bdm6ZyDdgo6+C6Z0Yc=",
+  "Hash": "ce/tTIrzW69WiioArM42UUzGxxfdnNROgwzL21h/ZDM=",
   "Source": "MiniECommerce",
   "BasePath": "/",
   "Mode": "Root",
@@ -41,7 +41,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet#[.{fingerprint}]?.js",
       "AssetKind": "Publish",
@@ -62,7 +62,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.native.8o8n7iomrf.js",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.8o8n7iomrf.js",
       "AssetKind": "Publish",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.native.aep4lch3d1.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.aep4lch3d1.wasm",
       "AssetKind": "Publish",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.runtime.rubq0v1yiy.js",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.rubq0v1yiy.js",
       "AssetKind": "Publish",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_CJK.tjcz0u77k5.dat",
       "AssetKind": "Publish",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_EFIGS.tptq2av103.dat",
       "AssetKind": "Publish",
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_no_CJK.lfu7j35m59.dat",
       "AssetKind": "Publish",
@@ -188,7 +188,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazor.boot.json",
       "AssetKind": "Publish",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "7n4u6tag2e",
-      "Integrity": "A22IMEILM34Vr5jzpqVATfy/fRn3o9ThTZ0N5EKgnSU=",
+      "Fingerprint": "mfcfiznt3q",
+      "Integrity": "slovH0jBZPJEN36XVXVJY4Pewvi7JfYtdTHdnyF2IzM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -566,7 +566,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\ca7ng5aohq-o1flzbn3wd.gz",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet#[.{fingerprint=o1flzbn3wd}]?.js.gz",
       "AssetKind": "Publish",
@@ -713,7 +713,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\hnd72smhx0-rubq0v1yiy.gz",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime#[.{fingerprint=rubq0v1yiy}]!.js.gz",
       "AssetKind": "Publish",
@@ -2096,7 +2096,7 @@
       "OriginalItemSpec": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-7n4u6tag2e.br",
+      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-mfcfiznt3q.br",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -2110,14 +2110,14 @@
       "RelatedAsset": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "004f37xu7c",
-      "Integrity": "AE/6pZeXD9jYjkmLwjC2QFAtI4uvPlTgWPJ0nXMI/fA=",
+      "Fingerprint": "xck1080705",
+      "Integrity": "rwKiBLSEwJ2MGk/IsFUzBGzyFAUHKbG/CmTGK48jERg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-7n4u6tag2e.gz",
+      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-mfcfiznt3q.gz",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -2131,8 +2131,8 @@
       "RelatedAsset": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fts9a50mrv",
-      "Integrity": "I/jsIfZbCilxLcdy2eeEFkVBrVE0Br/ylPUIqayyiFw=",
+      "Fingerprint": "twrktwucxq",
+      "Integrity": "s5it1Mf07z6H7xr5zM2dK+gKTGCDq19IUJlf6B6jdS4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -4028,12 +4028,12 @@
       "OriginalItemSpec": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Forms.wasm"
     },
     {
-      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.br",
+      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.br",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MiniECommerce#[.{fingerprint=ehknwyf6ru}]!.wasm.br",
+      "RelativePath": "_framework/MiniECommerce#[.{fingerprint=juxu7z8t5k}]!.wasm.br",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4042,19 +4042,19 @@
       "RelatedAsset": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\MiniECommerce.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "bh3fqlv8dr",
-      "Integrity": "X30igIxX/LQUVJpoH6HI+qgwdfyAXTLdm6NUh7VTw40=",
+      "Fingerprint": "9es17qzz8q",
+      "Integrity": "AUW7yZAh0qAVBhJRe17+LQLvTg7JRr1DRM5pjNr7gHU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\MiniECommerce.wasm"
     },
     {
-      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.gz",
+      "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.gz",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MiniECommerce#[.{fingerprint=ehknwyf6ru}]!.wasm.gz",
+      "RelativePath": "_framework/MiniECommerce#[.{fingerprint=juxu7z8t5k}]!.wasm.gz",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4063,8 +4063,8 @@
       "RelatedAsset": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\MiniECommerce.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sighw7on66",
-      "Integrity": "HLYl4d4xmFDqpqU99ua36VZ4NTWeIejO+mhnN868tmQ=",
+      "Fingerprint": "50a02lmsvo",
+      "Integrity": "pUgc3T9DMT5kw6+Swhmasu5licjhCVwE8zUh7IwfeyY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\MiniECommerce.wasm"
@@ -4703,7 +4703,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\vf9s2ytsvf-8o8n7iomrf.gz",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native#[.{fingerprint=8o8n7iomrf}]!.js.gz",
       "AssetKind": "Publish",
@@ -4745,7 +4745,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\vy1hvj5vb8-aep4lch3d1.gz",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native#[.{fingerprint=aep4lch3d1}]!.wasm.gz",
       "AssetKind": "Publish",
@@ -4955,7 +4955,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Forms.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4976,7 +4976,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4997,7 +4997,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Web.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5018,7 +5018,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5039,7 +5039,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5060,7 +5060,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Json.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5081,7 +5081,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5102,7 +5102,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5123,7 +5123,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5144,7 +5144,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Localization.Abstractions.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5165,7 +5165,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Localization.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Localization#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5186,7 +5186,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5207,7 +5207,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Logging.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5228,7 +5228,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Options.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Options#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5249,7 +5249,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Primitives.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5270,7 +5270,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.JSInterop.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5291,7 +5291,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5312,7 +5312,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\MiniECommerce.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/MiniECommerce#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5323,8 +5323,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "ehknwyf6ru",
-      "Integrity": "ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34=",
+      "Fingerprint": "juxu7z8t5k",
+      "Integrity": "JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\MiniECommerce.wasm"
@@ -5333,7 +5333,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Concurrent.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Concurrent#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5354,7 +5354,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Immutable.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Immutable#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5375,7 +5375,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.NonGeneric.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.NonGeneric#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5396,7 +5396,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Specialized.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Specialized#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5417,7 +5417,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5438,7 +5438,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.Annotations.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.Annotations#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5459,7 +5459,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.Primitives.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5480,7 +5480,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.TypeConverter.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.TypeConverter#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5501,7 +5501,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5522,7 +5522,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Console.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Console#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5543,7 +5543,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.IO.Pipelines.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.IO.Pipelines#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5564,7 +5564,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Linq.Expressions.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq.Expressions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5585,7 +5585,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Linq.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5606,7 +5606,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Memory.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Memory#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5627,7 +5627,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Http.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5648,7 +5648,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Primitives.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5669,7 +5669,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.ObjectModel.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ObjectModel#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5690,7 +5690,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.CoreLib.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.CoreLib#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5711,7 +5711,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.Uri.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.Uri#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5732,7 +5732,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.InteropServices.JavaScript.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.InteropServices.JavaScript#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5753,7 +5753,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.Serialization.Primitives.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.Serialization.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5774,7 +5774,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5795,7 +5795,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.Encodings.Web.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Encodings.Web#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5816,7 +5816,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.Json.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5837,7 +5837,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.RegularExpressions.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.RegularExpressions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5858,7 +5858,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.Threading.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Threading#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -5879,7 +5879,7 @@
       "Identity": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\System.wasm",
       "SourceId": "MiniECommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\build\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -14128,11 +14128,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A22IMEILM34Vr5jzpqVATfy/fRn3o9ThTZ0N5EKgnSU=\""
+          "Value": "\"slovH0jBZPJEN36XVXVJY4Pewvi7JfYtdTHdnyF2IzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:40:11 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14142,13 +14142,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A22IMEILM34Vr5jzpqVATfy/fRn3o9ThTZ0N5EKgnSU="
+          "Value": "sha256-slovH0jBZPJEN36XVXVJY4Pewvi7JfYtdTHdnyF2IzM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-7n4u6tag2e.br",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-mfcfiznt3q.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14167,11 +14167,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AE/6pZeXD9jYjkmLwjC2QFAtI4uvPlTgWPJ0nXMI/fA=\""
+          "Value": "\"rwKiBLSEwJ2MGk/IsFUzBGzyFAUHKbG/CmTGK48jERg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:40:11 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14191,24 +14191,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A22IMEILM34Vr5jzpqVATfy/fRn3o9ThTZ0N5EKgnSU=\""
+          "Value": "W/\"slovH0jBZPJEN36XVXVJY4Pewvi7JfYtdTHdnyF2IzM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A22IMEILM34Vr5jzpqVATfy/fRn3o9ThTZ0N5EKgnSU="
+          "Value": "sha256-slovH0jBZPJEN36XVXVJY4Pewvi7JfYtdTHdnyF2IzM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-7n4u6tag2e.gz",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-mfcfiznt3q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000292740047"
+          "Quality": "0.000292654375"
         }
       ],
       "ResponseHeaders": [
@@ -14218,15 +14218,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3415"
+          "Value": "3416"
         },
         {
           "Name": "ETag",
-          "Value": "\"I/jsIfZbCilxLcdy2eeEFkVBrVE0Br/ylPUIqayyiFw=\""
+          "Value": "\"s5it1Mf07z6H7xr5zM2dK+gKTGCDq19IUJlf6B6jdS4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:40:11 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14246,19 +14246,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A22IMEILM34Vr5jzpqVATfy/fRn3o9ThTZ0N5EKgnSU=\""
+          "Value": "W/\"slovH0jBZPJEN36XVXVJY4Pewvi7JfYtdTHdnyF2IzM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A22IMEILM34Vr5jzpqVATfy/fRn3o9ThTZ0N5EKgnSU="
+          "Value": "sha256-slovH0jBZPJEN36XVXVJY4Pewvi7JfYtdTHdnyF2IzM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-7n4u6tag2e.br",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-mfcfiznt3q.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14275,11 +14275,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AE/6pZeXD9jYjkmLwjC2QFAtI4uvPlTgWPJ0nXMI/fA=\""
+          "Value": "\"rwKiBLSEwJ2MGk/IsFUzBGzyFAUHKbG/CmTGK48jERg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:40:11 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14297,13 +14297,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AE/6pZeXD9jYjkmLwjC2QFAtI4uvPlTgWPJ0nXMI/fA="
+          "Value": "sha256-rwKiBLSEwJ2MGk/IsFUzBGzyFAUHKbG/CmTGK48jERg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-7n4u6tag2e.gz",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\7y2ntaedyn-mfcfiznt3q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14312,7 +14312,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3415"
+          "Value": "3416"
         },
         {
           "Name": "Content-Type",
@@ -14320,11 +14320,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I/jsIfZbCilxLcdy2eeEFkVBrVE0Br/ylPUIqayyiFw=\""
+          "Value": "\"s5it1Mf07z6H7xr5zM2dK+gKTGCDq19IUJlf6B6jdS4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:40:11 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14342,7 +14342,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I/jsIfZbCilxLcdy2eeEFkVBrVE0Br/ylPUIqayyiFw="
+          "Value": "sha256-s5it1Mf07z6H7xr5zM2dK+gKTGCDq19IUJlf6B6jdS4="
         }
       ]
     },
@@ -25582,13 +25582,13 @@
       ]
     },
     {
-      "Route": "_framework/MiniECommerce.ehknwyf6ru.wasm",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.br",
+      "Route": "_framework/MiniECommerce.juxu7z8t5k.wasm",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000047725863"
+          "Quality": "0.000047883547"
         }
       ],
       "ResponseHeaders": [
@@ -25598,15 +25598,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20952"
+          "Value": "20883"
         },
         {
           "Name": "ETag",
-          "Value": "\"X30igIxX/LQUVJpoH6HI+qgwdfyAXTLdm6NUh7VTw40=\""
+          "Value": "\"AUW7yZAh0qAVBhJRe17+LQLvTg7JRr1DRM5pjNr7gHU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25626,13 +25626,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34=\""
+          "Value": "W/\"JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ehknwyf6ru"
+          "Value": "juxu7z8t5k"
         },
         {
           "Name": "label",
@@ -25640,18 +25640,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34="
+          "Value": "sha256-JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ="
         }
       ]
     },
     {
-      "Route": "_framework/MiniECommerce.ehknwyf6ru.wasm",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.gz",
+      "Route": "_framework/MiniECommerce.juxu7z8t5k.wasm",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000039608666"
+          "Quality": "0.000039613373"
         }
       ],
       "ResponseHeaders": [
@@ -25661,15 +25661,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25246"
+          "Value": "25243"
         },
         {
           "Name": "ETag",
-          "Value": "\"HLYl4d4xmFDqpqU99ua36VZ4NTWeIejO+mhnN868tmQ=\""
+          "Value": "\"pUgc3T9DMT5kw6+Swhmasu5licjhCVwE8zUh7IwfeyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25689,13 +25689,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34=\""
+          "Value": "W/\"JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ehknwyf6ru"
+          "Value": "juxu7z8t5k"
         },
         {
           "Name": "label",
@@ -25703,12 +25703,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34="
+          "Value": "sha256-JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ="
         }
       ]
     },
     {
-      "Route": "_framework/MiniECommerce.ehknwyf6ru.wasm",
+      "Route": "_framework/MiniECommerce.juxu7z8t5k.wasm",
       "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\webcil\\publish\\MiniECommerce.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -25726,11 +25726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34=\""
+          "Value": "\"JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25740,7 +25740,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ehknwyf6ru"
+          "Value": "juxu7z8t5k"
         },
         {
           "Name": "label",
@@ -25748,13 +25748,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34="
+          "Value": "sha256-JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ="
         }
       ]
     },
     {
-      "Route": "_framework/MiniECommerce.ehknwyf6ru.wasm.br",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.br",
+      "Route": "_framework/MiniECommerce.juxu7z8t5k.wasm.br",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25763,7 +25763,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20952"
+          "Value": "20883"
         },
         {
           "Name": "Content-Type",
@@ -25771,11 +25771,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X30igIxX/LQUVJpoH6HI+qgwdfyAXTLdm6NUh7VTw40=\""
+          "Value": "\"AUW7yZAh0qAVBhJRe17+LQLvTg7JRr1DRM5pjNr7gHU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25793,7 +25793,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ehknwyf6ru"
+          "Value": "juxu7z8t5k"
         },
         {
           "Name": "label",
@@ -25801,13 +25801,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X30igIxX/LQUVJpoH6HI+qgwdfyAXTLdm6NUh7VTw40="
+          "Value": "sha256-AUW7yZAh0qAVBhJRe17+LQLvTg7JRr1DRM5pjNr7gHU="
         }
       ]
     },
     {
-      "Route": "_framework/MiniECommerce.ehknwyf6ru.wasm.gz",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.gz",
+      "Route": "_framework/MiniECommerce.juxu7z8t5k.wasm.gz",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25816,7 +25816,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25246"
+          "Value": "25243"
         },
         {
           "Name": "Content-Type",
@@ -25824,11 +25824,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HLYl4d4xmFDqpqU99ua36VZ4NTWeIejO+mhnN868tmQ=\""
+          "Value": "\"pUgc3T9DMT5kw6+Swhmasu5licjhCVwE8zUh7IwfeyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25846,7 +25846,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ehknwyf6ru"
+          "Value": "juxu7z8t5k"
         },
         {
           "Name": "label",
@@ -25854,18 +25854,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HLYl4d4xmFDqpqU99ua36VZ4NTWeIejO+mhnN868tmQ="
+          "Value": "sha256-pUgc3T9DMT5kw6+Swhmasu5licjhCVwE8zUh7IwfeyY="
         }
       ]
     },
     {
       "Route": "_framework/MiniECommerce.wasm",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.br",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000047725863"
+          "Quality": "0.000047883547"
         }
       ],
       "ResponseHeaders": [
@@ -25875,15 +25875,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20952"
+          "Value": "20883"
         },
         {
           "Name": "ETag",
-          "Value": "\"X30igIxX/LQUVJpoH6HI+qgwdfyAXTLdm6NUh7VTw40=\""
+          "Value": "\"AUW7yZAh0qAVBhJRe17+LQLvTg7JRr1DRM5pjNr7gHU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25903,24 +25903,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34=\""
+          "Value": "W/\"JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34="
+          "Value": "sha256-JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ="
         }
       ]
     },
     {
       "Route": "_framework/MiniECommerce.wasm",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.gz",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000039608666"
+          "Quality": "0.000039613373"
         }
       ],
       "ResponseHeaders": [
@@ -25930,15 +25930,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25246"
+          "Value": "25243"
         },
         {
           "Name": "ETag",
-          "Value": "\"HLYl4d4xmFDqpqU99ua36VZ4NTWeIejO+mhnN868tmQ=\""
+          "Value": "\"pUgc3T9DMT5kw6+Swhmasu5licjhCVwE8zUh7IwfeyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25958,13 +25958,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34=\""
+          "Value": "W/\"JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34="
+          "Value": "sha256-JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ="
         }
       ]
     },
@@ -25987,11 +25987,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34=\""
+          "Value": "\"JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26001,13 +26001,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ch+Z69DtbMZQyulO8Xm8odXB2UNn48E0DljckmbxQ34="
+          "Value": "sha256-JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ="
         }
       ]
     },
     {
       "Route": "_framework/MiniECommerce.wasm.br",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.br",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26016,7 +26016,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20952"
+          "Value": "20883"
         },
         {
           "Name": "Content-Type",
@@ -26024,11 +26024,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X30igIxX/LQUVJpoH6HI+qgwdfyAXTLdm6NUh7VTw40=\""
+          "Value": "\"AUW7yZAh0qAVBhJRe17+LQLvTg7JRr1DRM5pjNr7gHU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26046,13 +26046,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-X30igIxX/LQUVJpoH6HI+qgwdfyAXTLdm6NUh7VTw40="
+          "Value": "sha256-AUW7yZAh0qAVBhJRe17+LQLvTg7JRr1DRM5pjNr7gHU="
         }
       ]
     },
     {
       "Route": "_framework/MiniECommerce.wasm.gz",
-      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-ehknwyf6ru.gz",
+      "AssetFile": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\Release\\net9.0\\compressed\\publish\\uz3kwrc9xx-juxu7z8t5k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26061,7 +26061,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25246"
+          "Value": "25243"
         },
         {
           "Name": "Content-Type",
@@ -26069,11 +26069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HLYl4d4xmFDqpqU99ua36VZ4NTWeIejO+mhnN868tmQ=\""
+          "Value": "\"pUgc3T9DMT5kw6+Swhmasu5licjhCVwE8zUh7IwfeyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 05:25:09 GMT"
+          "Value": "Mon, 10 Feb 2025 05:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26091,7 +26091,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HLYl4d4xmFDqpqU99ua36VZ4NTWeIejO+mhnN868tmQ="
+          "Value": "sha256-pUgc3T9DMT5kw6+Swhmasu5licjhCVwE8zUh7IwfeyY="
         }
       ]
     },
