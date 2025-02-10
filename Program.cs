@@ -17,6 +17,8 @@ builder.Services.AddSingleton<CartService>();
 builder.Services.AddSingleton<ReviewService>();
 builder.Services.AddSingleton<OrderService>();
 builder.Services.AddSingleton<WishlistService>();
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
+
 
 
 
