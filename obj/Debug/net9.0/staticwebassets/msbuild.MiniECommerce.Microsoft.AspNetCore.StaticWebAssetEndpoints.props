@@ -1156,7 +1156,7 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MiniECommerce.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o83ntt002j"},{"Name":"integrity","Value":"sha256-2L4FPhq1LvrMeAzmx2fliQDV/crS1Y5gLFAfNDX5Ekg="},{"Name":"label","Value":"MiniECommerce.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4622"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222L4FPhq1LvrMeAzmx2fliQDV/crS1Y5gLFAfNDX5Ekg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 08:45:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4622"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222L4FPhq1LvrMeAzmx2fliQDV/crS1Y5gLFAfNDX5Ekg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 08:50:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="MiniECommerce.staticwebassets.endpoints.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MiniECommerce.staticwebassets.endpoints.json'))</AssetFile>
@@ -1174,7 +1174,7 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MiniECommerce.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2L4FPhq1LvrMeAzmx2fliQDV/crS1Y5gLFAfNDX5Ekg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4622"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222L4FPhq1LvrMeAzmx2fliQDV/crS1Y5gLFAfNDX5Ekg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 08:45:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4622"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222L4FPhq1LvrMeAzmx2fliQDV/crS1Y5gLFAfNDX5Ekg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 08:50:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="publish/MiniECommerce.staticwebassets.endpoints.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\publish\MiniECommerce.staticwebassets.endpoints.json'))</AssetFile>

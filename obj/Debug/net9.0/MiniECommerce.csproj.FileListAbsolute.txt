@@ -1601,8 +1601,8 @@ C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Mic
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Microsoft.VisualBasic.ezua2clavb.wasm
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Primitives.2w82csd6tr.wasm
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm
-C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.8gjfh0lvfk.pdb
-C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.rgras1l18h.wasm
+C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.kjdoh0bopb.pdb
+C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.8pn4t3ill3.wasm
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\mscorlib.l6md3pggqy.wasm
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\netstandard.lij9csiyuf.wasm
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.ch56s52ual.wasm
@@ -1817,7 +1817,7 @@ C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Sys
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebClient.pe57fwwtmc.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.tt0muuqqmn.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Security.fl5q9pzcow.wasm.gz
-C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.8gjfh0lvfk.pdb.gz
+C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.kjdoh0bopb.pdb.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.3u89chdpwh.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.Emit.ejqw77rpzl.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Options.hse9gm9r95.wasm.gz
@@ -1950,7 +1950,7 @@ C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\Sys
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encodings.Web.grd8pnwzq5.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.09wnmnw7h6.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.mtlbkuc7bx.wasm.gz
-C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.rgras1l18h.wasm.gz
+C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\MiniECommerce.8pn4t3ill3.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Private.CoreLib.u3k7k03qne.wasm.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.fc2uoh6qo1.wasm.gz
@@ -3257,9 +3257,9 @@ C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\zvhjyu43mu-
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\72mujtfi51-tjcz0u77k5.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\433bp5jas2-tptq2av103.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\xbrxj4xjo3-lfu7j35m59.gz
-C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\x0dby883ou-rgras1l18h.gz
-C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\933x5ejgwr-8gjfh0lvfk.gz
-C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\s5abuecmd5-kz18x3mkhb.gz
+C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\x0dby883ou-8pn4t3ill3.gz
+C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\933x5ejgwr-kjdoh0bopb.gz
+C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\compressed\s5abuecmd5-hdwyv2w5o7.gz
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Yvan\Webdesigns\Mini-E-Commerce\obj\Debug\net9.0\staticwebassets.build.endpoints.json
