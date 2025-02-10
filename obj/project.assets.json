@@ -1866,11 +1866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\MiniECommerce.csproj",
+      "projectUniqueName": "C:\\Users\\Yvan\\Webdesigns\\Mini-E-Commerce\\MiniECommerce.csproj",
       "projectName": "MiniECommerce",
-      "projectPath": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\MiniECommerce.csproj",
+      "projectPath": "C:\\Users\\Yvan\\Webdesigns\\Mini-E-Commerce\\MiniECommerce.csproj",
       "packagesPath": "C:\\Users\\Yvan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\obj\\",
+      "outputPath": "C:\\Users\\Yvan\\Webdesigns\\Mini-E-Commerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yvan\\AppData\\Roaming\\NuGet\\NuGet.Config"

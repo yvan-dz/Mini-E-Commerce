@@ -1,0 +1,102 @@
+nav{
+    margin-bottom: 5%;
+}
+/* 🔝 Navbar Styles */
+.navbar {
+    background-color: #1E2A38 !important;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    padding: 15px 30px;
+}
+
+/* 🌍 Logo */
+.navbar-brand img {
+    height: 50px;
+    transition: transform 0.3s ease-in-out, opacity 0.3s;
+    margin-right: 20px;
+}
+
+.navbar-brand img:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+
+/* 📌 Navigation Links */
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 12px; /* Gleichmäßiger Abstand zwischen Links */
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 12px 15px; /* Mehr Platz für bessere Klickbarkeit */
+    transition: color 0.3s ease-in-out, transform 0.2s;
+    border-radius: 6px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #f39c12 !important;
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: scale(1.1);
+}
+
+/* 🎨 Stil für den Toggle-Button */
+.custom-toggler {
+    border: none;
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+    padding: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* 🟢 Toggle-Linien */
+.toggler-icon {
+    display: block;
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    border-radius: 2px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* 🟢 Animation beim Öffnen */
+.navbar-toggler[aria-expanded="true"] .toggler-icon:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+}
+
+.navbar-toggler[aria-expanded="true"] .toggler-icon:nth-child(2) {
+    opacity: 0;
+}
+
+.navbar-toggler[aria-expanded="true"] .toggler-icon:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+}
+
+/* 📱 Menü in der mobilen Ansicht */
+@media (max-width: 992px) {
+    .navbar-collapse {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .navbar-nav {
+        margin: auto;
+    }
+
+    .navbar-nav .nav-item {
+        padding: 8px 0;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 10px 20px;
+    }
+}

@@ -1,11 +1,4 @@
 {
-    "rewrites": [
-      { "source": "/(.*)", "destination": "/index.html" }
-    ],
-    "redirects": [
-      { "source": "/old-route", "destination": "/new-route", "statusCode": 301 }
-    ],
-    "cleanUrls": true,
-    "trailingSlash": false
+    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
   }
   

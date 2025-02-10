@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJQ0zvIPgi8=",
+  "dgSpecHash": "BhO9QeAo76k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\MiniECommerce.csproj",
+  "projectFilePath": "C:\\Users\\Yvan\\Webdesigns\\Mini-E-Commerce\\MiniECommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",
