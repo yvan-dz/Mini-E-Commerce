@@ -1,0 +1,100 @@
+/* 📌 Footer Styles */
+.footer {
+    background-color: #181818;
+    color: #f5f5f5;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    padding: 40px 0;
+    font-size: 0.9rem;
+    margin-top: 40px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+/* 📌 Footer-Sektionen */
+.footer-section {
+    flex: 1;
+    padding: 10px;
+    text-align: left;
+    min-width: 200px;
+}
+
+.footer-section h3 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: #f39c12;
+    border-bottom: 2px solid #f39c12;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.footer-section p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #ccc;
+}
+
+/* 📌 Footer Links */
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 8px;
+}
+
+.footer-section ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+    font-size: 1rem;
+}
+
+.footer-section ul li a:hover {
+    color: #f39c12;
+    transform: translateX(5px);
+}
+
+/* 📱 Social Media Icons */
+.social-icons {
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.social-icons a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 1.3rem;
+    transition: transform 0.3s ease-in-out, background 0.3s;
+}
+
+.social-icons a:hover {
+    transform: scale(1.2);
+    background: #f39c12;
+    color: black;
+}
+
+/* 🏁 Copyright Section */
+.footer-bottom {
+    background-color: #111;
+    padding: 15px;
+    font-size: 0.85rem;
+    color: #bbb;
+    text-align: center;
+}

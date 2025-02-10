@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: MiniECommerce
+    env: static
+    buildCommand: dotnet publish -c Release -o publish
+    staticPublishPath: publish/wwwroot
+    headers:
+      - path: /*
+        headers:
+          Content-Type: text/html
+      - path: /_framework/*
+        headers:
+          Content-Type: application/javascript
+      - path: /css/*
+        headers:
+          Content-Type: text/css
