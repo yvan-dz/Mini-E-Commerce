@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\MiniECommerce.styles.css"
     },
     {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\Mini-E-Commerce\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
       "Id": "C:\\Users\\Yvan\\Webdesigns\\Mini-E-Commerce\\wwwroot\\MiniECommerce.staticwebassets.endpoints.json",
       "PackagePath": "staticwebassets\\MiniECommerce.staticwebassets.endpoints.json"
     },
