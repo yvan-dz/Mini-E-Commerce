@@ -1,0 +1,125 @@
+@page "/admin"
+@using MiniECommerce.Services
+@using MiniECommerce.Shared
+@inject ProductService ProductService
+
+<!-- 🛠 Admin-Styles einfügen -->
+<link href="css/admin.css" rel="stylesheet" />
+
+<div class="admin-container">
+    <h2 class="admin-title">🛠 Admin – Produktverwaltung</h2>
+
+    <h3>📦 Produkte</h3>
+
+    @if (ProductService.GetProducts().Count == 0)
+    {
+        <p>⚠️ Keine Produkte verfügbar.</p>
+    }
+    else
+    {
+        <div class="product-list">
+            @foreach (var product in ProductService.GetProducts())
+            {
+                <div class="product-item">
+                    <img src="@product.ImageUrl" alt="@product.Name" />
+                    <div class="product-info">
+                        <strong>@product.Name</strong> - @product.Price €  
+                        <p>@product.Description</p>
+                    </div>
+                    <div class="product-actions">
+                        <button class="btn edit-btn" @onclick="() => EditProduct(product)">✏️ Bearbeiten</button>
+                        <button class="btn delete-btn" @onclick="() => DeleteProduct(product)">🗑️ Löschen</button>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+
+    <h3>➕ Neues Produkt hinzufügen</h3>
+    <EditForm Model="newProduct" OnValidSubmit="AddProduct" class="new-product-form">
+        <DataAnnotationsValidator />
+
+        <label>Name:</label>
+        <InputText @bind-Value="newProduct.Name" class="input-field" required />
+
+        <label>Preis (€):</label>
+        <InputNumber @bind-Value="newProduct.Price" class="input-field" required />
+
+        <label>Beschreibung:</label>
+        <InputTextArea @bind-Value="newProduct.Description" class="input-field" required />
+
+        <label>Bild-URL:</label>
+        <InputText @bind-Value="newProduct.ImageUrl" class="input-field" required />
+
+        <button type="submit" class="btn edit-btn">➕ Produkt hinzufügen</button>
+    </EditForm>
+
+    @if (editingProduct != null)
+    {
+        <div class="edit-modal show">
+            <h3>✏️ Produkt bearbeiten</h3>
+            <EditForm Model="editingProduct" OnValidSubmit="UpdateProduct">
+                <DataAnnotationsValidator />
+
+                <label>Name:</label>
+                <InputText @bind-Value="editingProduct.Name" class="input-field" required />
+
+                <label>Preis (€):</label>
+                <InputNumber @bind-Value="editingProduct.Price" class="input-field" required />
+
+                <label>Beschreibung:</label>
+                <InputTextArea @bind-Value="editingProduct.Description" class="input-field" required />
+
+                <label>Bild-URL:</label>
+                <InputText @bind-Value="editingProduct.ImageUrl" class="input-field" required />
+
+                <div class="modal-buttons">
+                    <button type="submit" class="btn edit-btn">💾 Änderungen speichern</button>
+                    <button type="button" @onclick="CancelEdit" class="btn cancel-btn">❌ Abbrechen</button>
+                </div>
+            </EditForm>
+        </div>
+    }
+</div>
+
+@code {
+    private Product newProduct = new();
+    private Product? editingProduct = null;
+
+    private void AddProduct()
+    {
+        ProductService.AddProduct(newProduct);
+        newProduct = new Product();
+    }
+
+    private void EditProduct(Product product)
+    {
+        editingProduct = new Product
+        {
+            Id = product.Id,
+            Name = product.Name,
+            Price = product.Price,
+            Description = product.Description,
+            ImageUrl = product.ImageUrl
+        };
+    }
+
+    private void UpdateProduct()
+    {
+        if (editingProduct != null)
+        {
+            ProductService.UpdateProduct(editingProduct);
+            editingProduct = null;
+        }
+    }
+
+    private void CancelEdit()
+    {
+        editingProduct = null;
+    }
+
+    private void DeleteProduct(Product product)
+    {
+        ProductService.DeleteProduct(product);
+    }
+}

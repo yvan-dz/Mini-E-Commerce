@@ -1,0 +1,92 @@
+@page "/checkout"
+@using MiniECommerce.Services
+@inject CartService CartService
+@inject OrderService OrderService
+
+<!-- 📌 Stylesheet für Checkout -->
+<link href="css/checkout.css" rel="stylesheet" />
+
+<div class="checkout-container">
+    <h2 class="checkout-title">🛍️ Checkout</h2>
+
+    @if (CartService.Cart.Count == 0)
+    {
+        <p class="empty-cart">❌ Dein Warenkorb ist leer. <a href="/" class="back-to-shop">Produkte anschauen</a></p>
+    }
+    else
+    {
+        <div class="order-summary">
+            <h3>📝 Bestellübersicht</h3>
+            <ul class="order-items">
+                @foreach (var product in CartService.Cart)
+                {
+                    <li class="order-item">
+                        <img src="@product.ImageUrl" alt="@product.Name" class="order-image" />
+                        <div class="order-info">
+                            <strong>@product.Name</strong>
+                            <span class="order-price">@product.Price €</span>
+                        </div>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <div class="delivery-details">
+            <h3>🚚 Lieferdetails</h3>
+            <EditForm Model="order" OnValidSubmit="SubmitOrder" class="checkout-form">
+                <DataAnnotationsValidator />
+
+                <label>Name:</label>
+                <InputText @bind-Value="order.Name" class="input-field" required />
+
+                <label>E-Mail:</label>
+                <InputText @bind-Value="order.Email" type="email" class="input-field" required />
+
+                <label>Adresse:</label>
+                <InputTextArea @bind-Value="order.Address" class="input-field" required />
+
+                <button type="submit" class="btn checkout-btn">🛒 Bestellung abschließen</button>
+            </EditForm>
+        </div>
+
+        @if (orderConfirmed)
+        {
+            <div class="order-success">
+                <p>✅ Bestellung erfolgreich! Vielen Dank, @order.Name! 🎉</p>
+                <button @onclick="ClearOrder" class="btn new-order-btn">Neue Bestellung</button>
+            </div>
+        }
+    }
+</div>
+
+@code {
+    private Order order = new();
+    private bool orderConfirmed = false;
+
+    private async Task SubmitOrder()
+{
+    orderConfirmed = true;
+
+    // 🛒 Bestellung speichern
+    await CartService.SaveOrder();
+
+    // 🧹 Warenkorb leeren
+    CartService.ClearCart();
+}
+
+
+    private void ClearOrder()
+    {
+        order = new Order();
+        orderConfirmed = false;
+    }
+
+    public class Order
+    {
+        public string Name { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string Address { get; set; } = string.Empty;
+    }
+
+    
+}

@@ -1,0 +1,40 @@
+@page "/cart"
+@using MiniECommerce.Services
+@inject CartService CartService
+
+<!-- 📌 Stylesheet für den Warenkorb -->
+<link href="css/cart.css" rel="stylesheet" />
+
+<div class="cart-container">
+    <h2 class="cart-title">🛒 Dein Warenkorb</h2>
+
+    @if (CartService.Cart.Count == 0)
+    {
+        <p class="empty-cart">❌ Dein Warenkorb ist leer.</p>
+    }
+    else
+    {
+        <div class="cart-summary">
+            <ul class="cart-items">
+                @foreach (var product in CartService.Cart)
+                {
+                    <li class="cart-item">
+                        <img src="@product.ImageUrl" alt="@product.Name" class="cart-image" />
+                        <div class="cart-info">
+                            <strong>@product.Name</strong>
+                            <span class="cart-price">@product.Price €</span>
+                        </div>
+                        <button @onclick="() => CartService.RemoveFromCart(product)" class="btn remove-btn">🗑️ Entfernen</button>
+                    </li>
+                }
+            </ul>
+
+            <div class="cart-actions">
+                <button @onclick="() => CartService.ClearCart()" class="btn clear-cart-btn">🧹 Warenkorb leeren</button>
+                <a href="/checkout" class="btn checkout-btn">📦 Zur Kasse</a>
+            </div>
+        </div>
+    }
+
+    <a href="/" class="back-to-shop-btn">🔙 Zurück zu den Produkten</a>
+</div>

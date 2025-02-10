@@ -1,0 +1,28 @@
+﻿@using MiniECommerce.Services
+@using MiniECommerce.Shared
+@inject CartService CartService
+@inject WishlistService WishlistService
+
+<li class="nav-item px-3">
+    <NavLink class="nav-link" href="products">
+        <span class="oi oi-list"></span> Produkte
+    </NavLink>
+</li>
+<li class="nav-item px-3">
+    <NavLink class="nav-link" href="cart">
+        🛒 Warenkorb (@CartService.Cart.Count)
+    </NavLink>
+</li>
+
+<li class="nav-item px-3">
+    <NavLink class="nav-link" href="wishlist">
+        💖 Wunschliste (@WishlistService.Wishlist.Count)
+    </NavLink>
+</li>
+
+
+<li class="nav-item px-3">
+    <NavLink class="nav-link" href="admin">
+        ⚙️ Admin
+    </NavLink>
+</li>

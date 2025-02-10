@@ -1,0 +1,239 @@
+@page "/"
+@using MiniECommerce.Shared  
+@using MiniECommerce.Services
+@inject ProductService ProductService
+@inject CartService CartService
+@inject ReviewService ReviewService
+@inject WishlistService WishlistService
+
+<!-- 🛠 Admin-Styles einfügen -->
+<link href="css/products.css" rel="stylesheet" />
+
+<!-- 🛍️ Titel -->
+<h2 class="page-title">🛍️ Unsere Produkte</h2>
+
+<!-- 🔎 Such- und Sortierfilter -->
+<div class="filter-container">
+    <div class="search-box">
+        <label>🔍 Suche:</label>
+        <InputText @bind="searchTerm" placeholder="Produkt suchen..." class="search-input"/>
+    </div>
+
+    <div class="sort-box">
+        <label>🔽 Sortieren nach:</label>
+        <select @bind="sortOption" class="sort-dropdown">
+            <option value="name-asc">Name (A-Z)</option>
+            <option value="name-desc">Name (Z-A)</option>
+            <option value="price-asc">Preis (aufsteigend)</option>
+            <option value="price-desc">Preis (absteigend)</option>
+            <option value="rating-asc">Bewertung (beste zuerst)</option>
+            <option value="rating-desc">Bewertung (schlechteste zuerst)</option>
+        </select>
+    </div>
+</div>
+
+@if (!filteredProducts.Any())
+{
+    <p class="no-products">Keine Produkte gefunden.</p>
+}
+else
+{
+    <div class="product-grid">
+        @foreach (var product in filteredProducts)
+        {
+            <div class="product-card">
+                <img src="@product.ImageUrl" alt="@product.Name" class="product-image"/>
+                <h3 class="product-title">@product.Name</h3>
+                <p class="product-description">@product.Description</p>
+                <p class="product-price"><strong>@product.Price €</strong></p>
+
+                <div class="product-actions">
+                    <button @onclick="() => CartService.AddToCart(product)" class="btn cart-btn">🛒 In den Warenkorb</button>
+                    <button @onclick="() => ToggleWishlist(product)" class="btn wishlist-btn">
+                        @(WishlistService.Wishlist.Any(p => p.Id == product.Id) ? "💔 Entfernen" : "💖 Wunschliste")
+                    </button>
+                </div>
+
+                <div class="review-section">
+                    <h4>⭐ Bewertungen</h4>
+                    @if (productReviews.TryGetValue(product.Id, out var reviews) && reviews.Any())
+                    {
+                        @foreach (var review in reviews)
+                        {
+                            <p><strong>@review.Username:</strong> @review.Rating ⭐ - @review.Comment</p>
+                        }
+                    }
+                    else
+                    {
+                        <p>Noch keine Bewertungen.</p>
+                    }
+                </div>
+
+                <button @onclick="() => ShowReviewForm(product.Id)" class="btn review-btn">💬 Bewertung schreiben</button>
+
+                @if (showReviewForm && currentProductId == product.Id)
+                {
+                    <div class="review-form">
+                        <h3>💬 Neue Bewertung schreiben</h3>
+                        <EditForm Model="newReview" OnValidSubmit="SubmitReview">
+                            <div>
+                                <label>Name:</label>
+                                <InputText @bind-Value="newReview.Username" required class="input"/>
+                            </div>
+
+                            <div>
+                                <label>Sternebewertung (1-5):</label>
+                                <InputNumber @bind-Value="newReview.Rating" required min="1" max="5" class="input"/>
+                            </div>
+
+                            <div>
+                                <label>Kommentar:</label>
+                                <InputTextArea @bind-Value="newReview.Comment" required class="textarea"/>
+                            </div>
+
+                            <div class="review-buttons">
+                                <button type="submit" class="btn submit-btn">✅ Bewertung abgeben</button>
+                                <button type="button" @onclick="CancelReview" class="btn cancel-btn">❌ Abbrechen</button>
+                            </div>
+                        </EditForm>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+}
+
+
+@code {
+    private List<Product> products = new();
+    private List<Product> filteredProducts = new();
+    private Dictionary<int, List<Review>> productReviews = new();
+    private Review newReview = new();
+    private bool showReviewForm = false;
+    private int currentProductId;
+
+    private string _searchTerm = "";
+    private string _sortOption = "name-asc";
+
+    private string searchTerm
+    {
+        get => _searchTerm;
+        set
+        {
+            if (_searchTerm != value)
+            {
+                _searchTerm = value;
+                ApplyFilters();
+            }
+        }
+    }
+
+    private string sortOption
+    {
+        get => _sortOption;
+        set
+        {
+            if (_sortOption != value)
+            {
+                _sortOption = value;
+                ApplyFilters();
+            }
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = ProductService.GetProducts();
+        var allReviews = await ReviewService.GetReviews();
+        productReviews = allReviews.GroupBy(r => r.ProductId)
+                                   .ToDictionary(g => g.Key, g => g.ToList());
+
+        ApplyFilters(); // Standardmäßig sortieren & filtern
+    }
+
+    private void ApplyFilters()
+    {
+        // 1️⃣ Erst filtern
+        filteredProducts = products
+            .Where(p => string.IsNullOrEmpty(searchTerm) ||
+                        p.Name.Contains(searchTerm, StringComparison.OrdinalIgnoreCase) ||
+                        p.Description.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
+            .ToList();
+
+        // 2️⃣ Dann sortieren
+        switch (sortOption)
+        {
+            case "name-asc":
+                filteredProducts = filteredProducts.OrderBy(p => p.Name).ToList();
+                break;
+            case "name-desc":
+                filteredProducts = filteredProducts.OrderByDescending(p => p.Name).ToList();
+                break;
+            case "price-asc":
+                filteredProducts = filteredProducts.OrderBy(p => p.Price).ToList();
+                break;
+            case "price-desc":
+                filteredProducts = filteredProducts.OrderByDescending(p => p.Price).ToList();
+                break;
+            case "rating-asc":
+                filteredProducts = filteredProducts.OrderByDescending(p => productReviews.ContainsKey(p.Id) ? 
+                                                                         productReviews[p.Id].Average(r => r.Rating) : 0)
+                                                   .ToList();
+                break;
+            case "rating-desc":
+                filteredProducts = filteredProducts.OrderBy(p => productReviews.ContainsKey(p.Id) ? 
+                                                                 productReviews[p.Id].Average(r => r.Rating) : 0)
+                                                   .ToList();
+                break;
+        }
+        
+        StateHasChanged();
+    }
+
+    private void ShowReviewForm(int productId)
+    {
+        if (currentProductId == productId && showReviewForm)
+        {
+            showReviewForm = false;
+        }
+        else
+        {
+            currentProductId = productId;
+            newReview = new Review { ProductId = productId };
+            showReviewForm = true;
+        }
+        StateHasChanged();
+    }
+
+    private void CancelReview()
+    {
+        showReviewForm = false;
+        StateHasChanged();
+    }
+
+    private async Task SubmitReview()
+    {
+        newReview.ProductId = currentProductId;
+        await ReviewService.AddReview(newReview);
+        if (!productReviews.ContainsKey(currentProductId))
+        {
+            productReviews[currentProductId] = new List<Review>();
+        }
+        productReviews[currentProductId].Add(newReview);
+        showReviewForm = false;
+        ApplyFilters(); // Nach dem Hinzufügen einer Bewertung neu filtern
+    }
+
+    private async Task ToggleWishlist(Product product)
+    {
+        if (WishlistService.Wishlist.Any(p => p.Id == product.Id))
+        {
+            await WishlistService.RemoveFromWishlist(product);
+        }
+        else
+        {
+            await WishlistService.AddToWishlist(product);
+        }
+        StateHasChanged();
+    }
+}

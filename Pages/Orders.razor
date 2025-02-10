@@ -1,0 +1,72 @@
+@page "/orders"
+@using MiniECommerce.Services
+@using MiniECommerce.Shared
+@inject OrderService OrderService
+@inject IJSRuntime JSRuntime 
+
+<!-- 📌 Stylesheet für Bestellungen -->
+<link href="css/orders.css" rel="stylesheet" />
+
+<div class="orders-container">
+    <h2 class="orders-title">📜 Bestellhistorie</h2>
+
+    @if (orders.Count == 0)
+    {
+        <p class="no-orders">❌ Keine vergangenen Bestellungen.</p>
+    }
+    else
+    {
+        <div class="order-list">
+            @foreach (var order in orders)
+            {
+                <div class="order-card">
+                    <div class="order-header">
+                        <h4>🛒 Bestellung #@order.Id</h4>
+                        <span class="order-date">@order.OrderDate.ToShortDateString()</span>
+                    </div>
+                    <p class="order-customer">👤 Kunde: <strong>@order.CustomerName</strong></p>
+                    <ul class="order-items">
+                        @foreach (var product in order.Products)
+                        {
+                            <li class="order-item">
+                                <img src="@product.ImageUrl" alt="@product.Name" class="order-image" />
+                                <div class="order-info">
+                                    <span>@product.Name</span>
+                                    <span class="order-price">@product.Price €</span>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private List<Order> orders = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Console.WriteLine("📦 Lade Bestellungen...");
+
+        // 📥 Lade Bestellungen aus `localStorage`
+        orders = await OrderService.GetOrders();
+
+        if (orders.Count == 0)
+        {
+            Console.WriteLine("❌ Keine Bestellungen gefunden.");
+        }
+        else
+        {
+            foreach (var order in orders)
+            {
+                Console.WriteLine($"📜 Bestellung #{order.Id}, Kunde: {order.CustomerName}");
+                foreach (var product in order.Products)
+                {
+                    Console.WriteLine($"🛒 {product.Name} - {product.Price} €");
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+@page "/wishlist"
+@using MiniECommerce.Services
+@inject WishlistService WishlistService
+@inject CartService CartService
+
+<!-- 🖌️ Wishlist Styles einfügen -->
+<link href="css/wishlist.css" rel="stylesheet" />
+
+<div class="wishlist-container">
+    <h2 class="wishlist-title">💖 Meine Wunschliste</h2>
+
+    @if (WishlistService.Wishlist.Count == 0)
+    {
+        <p class="wishlist-empty">Deine Wunschliste ist leer. 🛒</p>
+    }
+    else
+    {
+        <div class="wishlist-grid">
+            @foreach (var product in WishlistService.Wishlist)
+            {
+                <div class="wishlist-card">
+                    <img src="@product.ImageUrl" alt="@product.Name" class="product-image"/>
+                    <div class="product-info">
+                        <h3 class="product-title">@product.Name</h3>
+                        <p class="product-description">@product.Description</p>
+                        <p class="product-price"><strong>@product.Price €</strong></p>
+                    </div>
+                    <div class="wishlist-actions">
+                        <button class="btn cart-btn" @onclick="() => CartService.AddToCart(product)">🛒 In den Warenkorb</button>
+                        <button class="btn remove-btn" @onclick="() => WishlistService.RemoveFromWishlist(product)">💔 Entfernen</button>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
