@@ -1573,6 +1573,10 @@
       "PackagePath": "staticwebassets\\wwwroot\\sample-data\\weather.json.gz"
     },
     {
+      "Id": "C:\\Users\\Yvan\\Webdesigns\\MiniECommerce\\wwwroot\\wwwroot\\staticwebapp.config.json",
+      "PackagePath": "staticwebassets\\wwwroot\\staticwebapp.config.json"
+    },
+    {
       "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.MiniECommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

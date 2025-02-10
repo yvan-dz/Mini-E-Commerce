@@ -1,0 +1,9 @@
+services:
+  - type: static_site
+    name: blazor-app
+    repo: https://github.com/dein-github/blazor-app
+    buildCommand: "dotnet publish -c Release"
+    publishPath: "wwwroot"
+    envVars:
+      - key: DOTNET_VERSION
+        value: 7.0

@@ -1,0 +1,193 @@
+/* 🌟 Checkout-Seite – Dunkles & modernes Design */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1e1e;
+    color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* 📌 Hauptcontainer */
+.checkout-container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #252525;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);
+}
+
+/* 📌 Titel */
+.checkout-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #d4af37;
+    margin-bottom: 25px;
+}
+
+/* ❌ Leerer Warenkorb */
+.empty-cart {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #f44336;
+}
+
+.back-to-shop {
+    color: #d4af37;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.back-to-shop:hover {
+    text-decoration: underline;
+}
+
+/* 🛒 Bestellübersicht */
+.order-summary {
+    background: #333;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.order-summary h3 {
+    border-bottom: 2px solid #d4af37;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+
+/* 📦 Produkte */
+.order-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.order-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #444;
+}
+
+.order-item:last-child {
+    border-bottom: none;
+}
+
+.order-price {
+    font-weight: bold;
+    color: #d4af37;
+}
+
+/* 🚚 Lieferdetails */
+.delivery-details {
+    background: #2a2a2a;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* 📝 Formular */
+.checkout-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.input-field {
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #333;
+    color: #fff;
+}
+
+/* 🛒 Checkout-Button */
+.checkout-btn {
+    background-color: #d4af37;
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.checkout-btn:hover {
+    background-color: #c9a032;
+}
+
+/* ✅ Bestellung erfolgreich */
+.order-success {
+    text-align: center;
+    background: #292929;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.order-success p {
+    font-size: 1.2rem;
+    color: #d4af37;
+    font-weight: bold;
+}
+
+/* 🔄 Neue Bestellung */
+.new-order-btn {
+    background: #34568b;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.new-order-btn:hover {
+    background: #2a456f;
+}
+.order-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.order-image {
+    width: 80px;  /* Standardgröße */
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.order-image:hover {
+    transform: scale(1.05);
+}
+
+
+/* 📱 Responsive Anpassungen */
+@media (max-width: 768px) {
+    .checkout-container {
+        max-width: 95%;
+        padding: 20px;
+    }
+
+    .order-summary,
+    .delivery-details {
+        padding: 15px;
+    }
+}
+/* 📱 Responsive Design für kleine Bildschirme */
+@media (max-width: 768px) {
+    .order-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .order-image {
+        width: 100px;  /* Größere Darstellung auf kleinen Geräten */
+        margin-bottom: 10px;
+    }
+}

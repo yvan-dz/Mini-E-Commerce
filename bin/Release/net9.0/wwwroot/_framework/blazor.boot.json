@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MiniECommerce",
   "resources": {
-    "hash": "sha256-d2hXXCy7xVme20QXws+RIwbQXRvKZTTxeZ2SrLekQrA=",
+    "hash": "sha256-diev0eEs2w+gxAjGJZ8zYXuVgkTLRQY9WId7x4DwN88=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -203,8 +203,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MiniECommerce.juxu7z8t5k.wasm": "MiniECommerce.wasm",
-      "MiniECommerce.5gw4x5hw3t.pdb": "MiniECommerce.pdb"
+      "MiniECommerce.zqujinibhe.wasm": "MiniECommerce.wasm",
+      "MiniECommerce.nuigr7dygb.pdb": "MiniECommerce.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -416,10 +416,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "MiniECommerce.juxu7z8t5k.wasm": "sha256-JWYHYoBvxMOk36PjO4h3umXbPcbOIfwCFhcNv6DQagQ="
+      "MiniECommerce.zqujinibhe.wasm": "sha256-axBl4xpnqP8rqUZoOkvoHhC6xAyhfkDIKw32OgQKGZ8="
     },
     "pdb": {
-      "MiniECommerce.5gw4x5hw3t.pdb": "sha256-u32aqTAltdX0CXKzOuJdnJTItWOGLpKLaswAFW3Yqp0="
+      "MiniECommerce.nuigr7dygb.pdb": "sha256-kXWhlYhcNMS1uB0Qp+FpHjJj86I2lnaBcLEGZYBJ4Gc="
     }
   },
   "cacheBootResources": true,
