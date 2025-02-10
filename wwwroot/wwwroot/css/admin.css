@@ -1,0 +1,178 @@
+/* 🌟 Admin Dashboard – Dunkles, modernes UI */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1e1e;
+    color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* 📌 Admin-Hauptcontainer */
+.admin-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    background: #252525;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);
+}
+
+/* 📌 Titel */
+.admin-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #d4af37; /* Goldene Eleganz */
+    margin-bottom: 25px;
+}
+
+/* 📦 Produktliste */
+.product-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.product-item {
+    display: flex;
+    align-items: center;
+    background: #333;
+    border-radius: 8px;
+    padding: 12px;
+    box-shadow: 0 3px 6px rgba(255, 255, 255, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.product-item:hover {
+    transform: scale(1.03);
+}
+
+.product-item img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 15px;
+    border: 2px solid #d4af37;
+}
+
+.product-info {
+    flex-grow: 1;
+}
+
+.product-info strong {
+    font-size: 1.2rem;
+    color: #f5f5f5;
+}
+
+.product-actions {
+    display: flex;
+    gap: 10px;
+}
+
+/* 🛠 Buttons */
+.btn {
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: all 0.2s ease-in-out;
+}
+
+.edit-btn {
+    background-color: #d4af37;
+    color: black;
+}
+
+.edit-btn:hover {
+    background-color: #bfa033;
+}
+
+.delete-btn {
+    background-color: #e63946;
+    color: white;
+}
+
+.delete-btn:hover {
+    background-color: #c9283a;
+}
+
+/* ➕ Neues Produkt */
+.new-product-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 20px;
+    background: #292929;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(255, 255, 255, 0.1);
+    margin-top: 25px;
+}
+
+.input-field {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #555;
+    border-radius: 6px;
+    background: #333;
+    color: #f5f5f5;
+}
+
+/* 📝 Modal für Produktbearbeitung */
+.edit-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #292929;
+    padding: 20px;
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.2);
+    display: none;
+}
+
+.edit-modal.show {
+    display: block;
+}
+
+/* 🆗 Speichern & Abbrechen Buttons */
+.modal-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.cancel-btn {
+    background-color: #777;
+    color: white;
+}
+
+.cancel-btn:hover {
+    background-color: #555;
+}
+
+/* 📱 Responsive Anpassungen */
+@media (max-width: 768px) {
+    .product-item {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .product-item img {
+        margin-bottom: 10px;
+    }
+
+    .product-actions {
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}

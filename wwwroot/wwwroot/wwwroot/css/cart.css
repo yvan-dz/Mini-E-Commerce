@@ -1,0 +1,177 @@
+/* 🌟 Warenkorb-Seite – Modernes dunkles Design */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1e1e;
+    color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* 📌 Hauptcontainer */
+.cart-container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #252525;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);
+}
+
+/* 📌 Titel */
+.cart-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #d4af37;
+    margin-bottom: 25px;
+}
+
+/* ❌ Leerer Warenkorb */
+.empty-cart {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #f44336;
+}
+
+.back-to-shop {
+    color: #d4af37;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.back-to-shop:hover {
+    text-decoration: underline;
+}
+
+/* 🛒 Warenkorb-Zusammenfassung */
+.cart-summary {
+    background: #333;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* 📦 Produkte */
+.cart-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 0;
+    border-bottom: 1px solid #444;
+}
+
+.cart-item:last-child {
+    border-bottom: none;
+}
+
+.cart-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.cart-info {
+    flex-grow: 1;
+    margin-left: 10px;
+}
+
+.cart-info strong {
+    font-size: 1.2rem;
+    color: #f5f5f5;
+}
+
+.cart-price {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #d4af37;
+}
+
+/* 🛠 Buttons */
+.btn {
+    padding: 10px 15px;
+    border-radius: 6px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+    text-align: center;
+}
+
+.remove-btn {
+    background-color: #f44336;
+    color: white;
+}
+
+.remove-btn:hover {
+    background-color: #d32f2f;
+}
+
+/* 🛒 Warenkorb-Buttons */
+.cart-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.clear-cart-btn {
+    background-color: #777;
+    color: white;
+}
+
+.clear-cart-btn:hover {
+    background-color: #555;
+}
+
+.checkout-btn {
+    background-color: #d4af37;
+    color: black;
+    font-weight: bold;
+}
+
+.checkout-btn:hover {
+    background-color: #c9a032;
+}
+
+/* 🔙 Zurück zu den Produkten */
+.back-to-shop-btn {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #d4af37;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.back-to-shop-btn:hover {
+    text-decoration: underline;
+}
+
+/* 📱 Responsive Anpassungen */
+@media (max-width: 768px) {
+    .cart-container {
+        max-width: 95%;
+        padding: 20px;
+    }
+
+    .cart-item {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .cart-image {
+        margin-bottom: 10px;
+    }
+
+    .cart-actions {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

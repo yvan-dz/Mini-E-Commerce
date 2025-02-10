@@ -1,0 +1,147 @@
+/* 🌑 Elegantes, dunkles E-Commerce Wishlist-Design */
+body {
+    background-color: #1e1e1e;
+    color: #f5f5f5;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* 🏠 Hauptcontainer */
+.wishlist-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #252525;
+    border-radius: 8px;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);
+}
+
+/* 💖 Wishlist-Titel */
+.wishlist-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #d4af37; /* Gold für Eleganz */
+    margin-bottom: 20px;
+}
+
+/* 🛒 Leere Wunschliste */
+.wishlist-empty {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #b0b0b0;
+    margin-top: 20px;
+}
+
+/* 📦 Produkt-Grid */
+.wishlist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+}
+
+/* 🏷️ Wishlist-Karte */
+.wishlist-card {
+    background: #292929;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wishlist-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 15px rgba(255, 255, 255, 0.2);
+}
+
+/* 🎨 Produktbild */
+.product-image {
+    width: 100%;
+    border-radius: 8px;
+    max-height: 180px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+/* 🎭 Produkttexte */
+.product-title {
+    font-size: 1.4rem;
+    color: #d4af37;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.product-description {
+    font-size: 0.95rem;
+    color: #b0b0b0;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.product-price {
+    font-size: 1.2rem;
+    color: #d4af37;
+    font-weight: bold;
+}
+
+/* 🎯 Wishlist-Buttons */
+.wishlist-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    width: 100%;
+}
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 6px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    text-align: center;
+    width: 48%;
+}
+
+/* 🛒 In den Warenkorb */
+.cart-btn {
+    background: #34568b;
+    color: white;
+}
+
+.cart-btn:hover {
+    background: #2a456f;
+}
+
+/* 💔 Entfernen */
+.remove-btn {
+    background: transparent;
+    border: 2px solid #d4af37;
+    color: #d4af37;
+}
+
+.remove-btn:hover {
+    background: #d4af37;
+    color: black;
+}
+
+/* 📱 Responsive Anpassungen */
+@media (max-width: 768px) {
+    .wishlist-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+
+    .wishlist-actions {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}
